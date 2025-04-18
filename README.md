@@ -50,3 +50,34 @@ npm install
 
 # Rode o servidor local
 npm run dev
+🚀 Deploy com Vercel
+O projeto está integrado com o Vercel, permitindo deploy contínuo a cada push.
+vercel --prod
+
+💡 Objetivos Estratégicos
+Tornar-se uma referência editorial na ciência de fronteira
+
+Monetizar livros e ideias com impacto real
+
+Atrair instituições, investidores e leitores engajados com a inovação
+
+🧑‍💼 Autor
+Neimar Alves Nazaré Barroso
+Criador da Física Sem Partículas e da Vetorialética
+Editor-chefe da EditorIA
+🔗 Perfil GitHub
+
+📬 Contato
+📧 contato@editoria.org
+🌍 https://editoria.vercel.app
+📜 Licença
+Este projeto está licenciado sob a Licença MIT.
+
+---
+
+### ✅ O que fazer agora:
+
+1. Crie o arquivo `README.md` na raiz do projeto:
+   ```powershell
+   code README.md
+
