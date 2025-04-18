@@ -1,48 +1,52 @@
-# Astro Starter Kit: Basics
+# 🧠 Portal de Vendas - EditorIA
 
-```sh
-npm create astro@latest -- --template basics
-```
+**EditorIA – Editora Oficial do Museu da Ilustração Científica**  
+Site institucional e comercial construído com [Astro](https://astro.build), integrando tecnologia de ponta para divulgação, distribuição e venda de obras científicas, filosóficas e literárias.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+![EditorIA Banner](https://editoria.vercel.app/banner-editoria.png) <!-- Substituir por uma imagem hospedada real -->
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+---
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## 🌐 Acesse agora
 
-## 🚀 Project Structure
+🔗 [https://editoria.vercel.app](https://editoria.vercel.app)
 
-Inside of your Astro project, you'll see the following folders and files:
+---
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## 📘 Sobre o Projeto
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+A **EditorIA** é o selo editorial oficial do **Instituto Física Sem Partículas** e do **Museu da Ilustração Científica**.  
+Este portal foi desenvolvido para facilitar a venda direta de livros, captar recursos para publicações futuras e divulgar conteúdos inovadores nas áreas de:
 
-## 🧞 Commands
+- Ciência & Epistemologia
+- Tecnologia & Inteligência Artificial
+- Literatura & Ensaio Crítico
+- Educação & Divulgação Científica
 
-All commands are run from the root of the project, from a terminal:
+---
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## ⚙️ Tecnologias Utilizadas
 
-## 👀 Want to learn more?
+- [Astro](https://astro.build) – Framework moderno de front-end
+- [Tailwind CSS](https://tailwindcss.com) – Estilização rápida e responsiva
+- [Vercel](https://vercel.com) – Deploy e hospedagem contínua
+- [GitHub](https://github.com/LitikaAv/EditorIA) – Controle de versão
+- [Markdown + JSON](https://astro.build/core-concepts/markdown-content/) – Conteúdo dinâmico
+- [GPT-4 para curadoria] – Inteligência Artificial na produção editorial
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+---
+
+## 📦 Instalação local
+
+```bash
+# Clone o repositório
+git clone git@github.com:LitikaAv/EditorIA.git
+
+# Acesse a pasta do projeto
+cd EditorIA
+
+# Instale as dependências
+npm install
+
+# Rode o servidor local
+npm run dev
