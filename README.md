@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner-editoria.png" alt="EditorIA Banner" />
+</p>
 # 🧠 Portal de Vendas - EditorIA
 
 **EditorIA – Editora Oficial do Museu da Ilustração Científica**  
